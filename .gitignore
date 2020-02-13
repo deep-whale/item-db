@@ -1,3 +1,4 @@
+db.txt
 # Copied from https://github.com/Squared-Software/PyCharm-Django-Git-Ignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -171,4 +172,4 @@ fabric.properties
 # Remove sql lite db
 *.sqlite3
 
-
+db.txt
